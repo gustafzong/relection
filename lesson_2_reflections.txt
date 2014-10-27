@@ -1,0 +1,1 @@
+staging area is some intermediate area for you to submit a new file to commit
